@@ -81,7 +81,7 @@ const config = {
             position: 'left',
             label: 'Project',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog/person-info/welcom', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/yuyoujiang',
             label: 'GitHub',
@@ -123,11 +123,11 @@ const config = {
             items: [
               {
                 label: 'youjiang.yu@seeed.cc',
-                href: 'https://www.seeedstudio.com/',
+                to: '/blog/person-info/youjiang-emails',
               },
               {
                 label: 'yuyoujiang97@gmail.com',
-                href: 'https://www.seeedstudio.com/',
+                to: '/blog/person-info/youjiang-emails',
               },
               {
                 label: 'Youjiang163@163.com',

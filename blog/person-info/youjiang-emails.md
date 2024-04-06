@@ -1,6 +1,6 @@
 ---
 slug: person-info/youjiang-emails
-title: Emails
+title: E-mails
 authors: youjiang
 tags: [email, google, seeed, 163]
 ---
