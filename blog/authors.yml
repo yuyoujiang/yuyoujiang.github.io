@@ -13,5 +13,11 @@ yangshun:
 slorber:
   name: Sébastien Lorber
   title: Docusaurus maintainer
-  url: https://sebastienlorber.com
+  url: https://yuyoujiang.github.io
   image_url: https://github.com/slorber.png
+
+youjiang:
+  name: Youjiang
+  title: Site Owner
+  url: https://yuyoujiang.github.io/
+  image_url: https://github.com/yuyoujiang.png
