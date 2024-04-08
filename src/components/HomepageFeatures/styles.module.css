@@ -5,7 +5,19 @@
   width: 100%;
 }
 
-.featureSvg {
-  height: 200px;
-  width: 200px;
+.featureImg {
+  height: 240px;
+  width: 400px;
+}
+
+.button {
+  display: inline-block;
+  padding: 8px 16px;
+  background-color: #159566;
+  color: #ffffff;
+  text-align: center;
+  text-decoration: none;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
 }

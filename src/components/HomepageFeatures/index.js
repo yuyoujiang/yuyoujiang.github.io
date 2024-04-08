@@ -4,46 +4,50 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'ChatBot',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Local Voice Chatbot',
+    imageUrl: '/img/cover-local-voice-chatbot.gif',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Utilizing Nvidia Riva and Meta Llama2, I have developed a secure, private, and fast-responding voice interaction system.
       </>
     ),
+    learnMoreLink: '/docs/local-voice-chatbot',
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Local Voice Chatbot',
+    imageUrl: '/img/cover-local-voice-chatbot.gif',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Utilizing Nvidia Riva and Meta Llama2, I have developed a secure, private, and fast-responding voice interaction system.
       </>
     ),
+    learnMoreLink: '/docs/local-voice-chatbot',
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Local Voice Chatbot',
+    imageUrl: '/img/cover-local-voice-chatbot.gif',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Utilizing Nvidia Riva and Meta Llama2, I have developed a secure, private, and fast-responding voice interaction system.
       </>
     ),
+    learnMoreLink: '/docs/local-voice-chatbot',
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({imageUrl, title, description, learnMoreLink }) {
+
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img src={imageUrl} className={styles.featureImg} alt={title} />
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
         <p>{description}</p>
+
+        <a href={learnMoreLink} className={styles.button}>Learn More</a>
+
       </div>
     </div>
   );
@@ -62,3 +66,5 @@ export default function HomepageFeatures() {
     </section>
   );
 }
+
+

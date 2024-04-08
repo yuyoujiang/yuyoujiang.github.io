@@ -97,7 +97,7 @@ const config = {
             items: [
               {
                 label: 'Project',
-                to: '/docs/intro',
+                to: '/docs/local-voice-chatbot',
               },
               {
                 label: 'Blog',
