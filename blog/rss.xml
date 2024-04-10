@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Youjiang Site Blog</title>
+        <link>https://yuyoujiang.github.io/blog</link>
+        <description>Youjiang Site Blog</description>
+        <lastBuildDate>Sat, 06 Apr 2024 15:19:13 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Update Site]]></title>
+            <link>https://yuyoujiang.github.io/blog/person-info/update-site</link>
+            <guid>https://yuyoujiang.github.io/blog/person-info/update-site</guid>
+            <pubDate>Sat, 06 Apr 2024 15:19:13 GMT</pubDate>
+            <description><![CDATA[Please refer this page for update.]]></description>
+            <content:encoded><![CDATA[<p>Please refer <a href="https://docusaurus.io/docs/deployment" target="_blank" rel="noopener noreferrer">this page</a> for update.</p>
+<div class="language-sh codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-sh codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">yarn start</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<div class="language-sh codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-sh codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">yarn build</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<div class="language-sh codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-sh codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">cmd /C "set "GIT_USER=yuyoujiang" &amp;&amp; yarn deploy"</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>]]></content:encoded>
+            <category>update</category>
+        </item>
+        <item>
+            <title><![CDATA[Welcom]]></title>
+            <link>https://yuyoujiang.github.io/blog/person-info/welcom</link>
+            <guid>https://yuyoujiang.github.io/blog/person-info/welcom</guid>
+            <pubDate>Sat, 06 Apr 2024 15:19:13 GMT</pubDate>
+            <description><![CDATA[Hello everyone!]]></description>
+            <content:encoded><![CDATA[<p>Hello everyone!</p>]]></content:encoded>
+            <category>update</category>
+        </item>
+        <item>
+            <title><![CDATA[E-mails]]></title>
+            <link>https://yuyoujiang.github.io/blog/person-info/youjiang-emails</link>
+            <guid>https://yuyoujiang.github.io/blog/person-info/youjiang-emails</guid>
+            <pubDate>Sat, 06 Apr 2024 13:35:34 GMT</pubDate>
+            <description><![CDATA[seeed studio : youjiang.yu@seeed.cc]]></description>
+            <content:encoded><![CDATA[<p><strong>seeed studio :</strong> <a href="mailto:youjiang.yu@seeed.cc" target="_blank" rel="noopener noreferrer">youjiang.yu@seeed.cc</a></p>
+<p><strong>google :</strong> <a href="mailto:yuyoujiang97@gmail.com" target="_blank" rel="noopener noreferrer">yuyoujiang97@gmail.com</a></p>
+<p><strong>NetEase :</strong> <a href="mailto:Youjiang163@163.com" target="_blank" rel="noopener noreferrer">Youjiang163@163.com</a></p>]]></content:encoded>
+            <category>email</category>
+            <category>google</category>
+            <category>seeed</category>
+            <category>163</category>
+        </item>
+    </channel>
+</rss>

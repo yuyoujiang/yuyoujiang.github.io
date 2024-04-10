@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyoujiang_site=self.webpackChunkyoujiang_site||[]).push([[566],{7147:a=>{a.exports=JSON.parse('{"label":"update","permalink":"/blog/tags/update","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);

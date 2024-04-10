@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyoujiang_site=self.webpackChunkyoujiang_site||[]).push([[676],{8792:a=>{a.exports=JSON.parse('{"label":"email","permalink":"/blog/tags/email","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
