@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Local Voice Chatbot',
-    imageUrl: '/img/cover-local-voice-chatbot.gif',
+    imageUrl: '/img/cover/cover-local-voice-chatbot.gif',
     description: (
       <>
         Utilizing Nvidia Riva and Meta Llama2, I have developed a secure, private, and fast-responding voice interaction system.
@@ -14,25 +14,28 @@ const FeatureList = [
     learnMoreLink: '/docs/local-voice-chatbot',
   },
   {
-    title: 'Local Voice Chatbot',
-    imageUrl: '/img/cover-local-voice-chatbot.gif',
+    title: 'Exercise Counter',
+    imageUrl: '/img/cover/cover-exercise-counter.gif',
     description: (
       <>
-        Utilizing Nvidia Riva and Meta Llama2, I have developed a secure, private, and fast-responding voice interaction system.
+        This is a pose estimation demo application for exercise counting with YOLOv8 using YOLOv8-Pose model. 
       </>
     ),
-    learnMoreLink: '/docs/local-voice-chatbot',
+    learnMoreLink: '/docs/exercise-counter',
   },
   {
-    title: 'Local Voice Chatbot',
-    imageUrl: '/img/cover-local-voice-chatbot.gif',
+    title: 'Image Fusion',
+    imageUrl: '/img/cover/cover-image-fusion.gif',
     description: (
       <>
-        Utilizing Nvidia Riva and Meta Llama2, I have developed a secure, private, and fast-responding voice interaction system.
+        This is a interesting image fusion project to paste stickers into the image with OpenCV and YOLOv8.       
       </>
     ),
-    learnMoreLink: '/docs/local-voice-chatbot',
+    learnMoreLink: '/docs/exercise-counter',
   },
+
+
+  
 ];
 
 function Feature({imageUrl, title, description, learnMoreLink }) {
@@ -45,9 +48,7 @@ function Feature({imageUrl, title, description, learnMoreLink }) {
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
         <p>{description}</p>
-
         <a href={learnMoreLink} className={styles.button}>Learn More</a>
-
       </div>
     </div>
   );
