@@ -4,7 +4,7 @@
         <title>Youjiang Site Blog</title>
         <link>https://yuyoujiang.github.io/blog</link>
         <description>Youjiang Site Blog</description>
-        <lastBuildDate>Wed, 10 Apr 2024 13:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Apr 2024 16:41:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[yolo-live-demo]]></title>
             <link>https://yuyoujiang.github.io/blog/yolo-live-demo</link>
             <guid>https://yuyoujiang.github.io/blog/yolo-live-demo</guid>
-            <pubDate>Wed, 10 Apr 2024 13:21:31 GMT</pubDate>
+            <pubDate>Wed, 10 Apr 2024 16:41:19 GMT</pubDate>
             <description><![CDATA[Hello everyone, my name’s Youjiang, I’m the Edge AI application engineer at Seeed Studio. It’s my pleasure to be here with you to discover the potential of the Jetson Orin and YOLOv8, within the retail market. For this live demo, I'll show you how to use Ultralytics YOLOv8 to implement queue management and deploy the application on our reComputer Jetson Orin NX edge device.]]></description>
             <content:encoded><![CDATA[<p>Hello everyone, my name’s Youjiang, I’m the Edge AI application engineer at Seeed Studio. It’s my pleasure to be here with you to discover the potential of the Jetson Orin and YOLOv8, within the retail market. For this live demo, I'll show you how to use Ultralytics YOLOv8 to implement queue management and deploy the application on our reComputer Jetson Orin NX edge device.</p>
 <p>So now, let's execute the python script to see what happens. All of the inferencing parts take place on the Jetson device.</p>
